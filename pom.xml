@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Enmax Technologies Releases Nexus Repository</name>
-	      <url>http://54.157.201.64:8081/repository/enmax-release/</url>
+	      <url>http://52.90.54.93:8081/repository/enmax-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Enmax Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.157.201.64:8081/repository/enmax-snapshot/</url>
+	      <url>http://52.90.54.93:8081/repository/enmax-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
